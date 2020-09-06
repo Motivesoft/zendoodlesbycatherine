@@ -18,6 +18,9 @@
 
             <?php include 'menu.php'; ?>
 
+            <br/>
+            <p><b>NEW!</b> Visit my sister site, <a href="https://condaluna.com">condaluna.com</a>, for downloadable wallpapers, fonts, stickers and GIFs!</p>
+
             <h1>Home</h1>
 
             <p>Mindfulness colouring is a great way of relaxing and focusing on the present moment. It is both therapeutic and calming, and has been shown to reduce stress and anxiety.</p>
