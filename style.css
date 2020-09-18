@@ -2,6 +2,10 @@
     font-family: Verdana, Geneva, sans-serif;
 }
 
+img {
+    max-width: 100%;
+}
+
 li {
     margin-bottom: 10px;
 }
